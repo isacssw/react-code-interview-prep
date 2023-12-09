@@ -11,6 +11,13 @@ interface IFormInput {
   onChange: (event: React.ChangeEvent<HTMLInputElement>) => void;
 }
 
+// to add focused as an input HTML attribute
+declare module "react" {
+  interface InputHTMLAttributes<T> {
+    focused?: string;
+  }
+}
+
 const FormInput = (props: IFormInput) => {
   const [focused, setFocused] = useState<boolean>(false);
   const { errorMessage, onChange, id, ...inputProps } = props;
