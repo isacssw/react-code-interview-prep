@@ -43,7 +43,7 @@ Feel free to suggest additional topics by opening an [issue](https://github.com/
 
 ## Practice Problems
 
-The `problems` directory contains a variety of React code challenges to help you practice and improve your problem-solving skills. Each problem is accompanied by a solution, but I encourage you to attempt solving them on your own before referring to the solutions.
+The `problems` directory contains a variety of React code challenges to help you practice and improve your problem-solving skills. Each problem is accompanied by a `solution`, but I encourage you to attempt solving them on your own before referring to the solutions.
 
 To contribute your own problems, please follow [Contributing](#contributing) section.
 

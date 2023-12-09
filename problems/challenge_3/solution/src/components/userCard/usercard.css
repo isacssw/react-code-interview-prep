@@ -1,0 +1,25 @@
+.usercard {
+  display: flex;
+  border: 0.2rem solid yellowgreen;
+  justify-content: space-between;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+button {
+  height: 50px;
+  padding: 5px;
+  border: 1px solid #242424;
+  background-color: chartreuse;
+  color: #242424;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 18px;
+  cursor: pointer;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+p {
+  padding-top: 15px;
+}
