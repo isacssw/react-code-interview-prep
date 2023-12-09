@@ -1,0 +1,10 @@
+.card {
+  border: 0.2rem solid yellowgreen;
+  border-radius: 0.25rem;
+  color: yellowgreen;
+  padding: 0.5rem;
+}
+
+p {
+  margin: 0;
+}
